@@ -1,14 +1,21 @@
-Welcome to your Appcelerator Titanium Mobile Project
+This is a Appcelerator Titanium Mobile Project built by GabeTheGeek as a sample project.
+
+v1.0 Notes
+----------------------------------
+- Connects with Flickr API using a HTTP Request
+- (theData) which is recived as JSON is parsed using JavaScript
+and displayed using HTML
+- Next Version to allow clicking on picture and expand.
+
+- To see the current working version via mobile device, visit http://raizinstudios.com/jmobile/SampleApp/
 
 This is a single view with a web view - you can easily incorporate your HTML files into a Titanium App! Requires Titanium Mobile SDK 1.8.0+
 
 ----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2012 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
+This App Uses:
+- JQuery Mobile 1.4
+- JQuery 10.2
+- HTML 5
+- Titanium to Build
+- Flickr API
+- Javascript
